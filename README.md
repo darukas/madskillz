@@ -1,4 +1,5 @@
-# Readify Mad Skillz
+﻿# Readify Mad Skillz
+
 
 This repo describes each of the technical roles at Readify.
 
